@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McBryan-dev
 - 🏠 I'm currently based in the UK
-- 👀 I’m interested in Frontend, JavaScript and Vue
+- 👀 I’m interested in Frontend, JavaScript, Vue and ReactJS
 - 🌱 I’m currently learning ReactJs and VueJS
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me bryanokononfua@gmail.com
